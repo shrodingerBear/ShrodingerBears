@@ -8,12 +8,12 @@ another holder when selling.
 ## Roadmap
 
 
-- Website
+- Website 
 - Deploy on Berachain testnet
-- fair launch testnet
-- creation of a community
+- Fair launch testnet
+- Creation of a community
 
-- launch on mainnet
+- Launch on mainnet
 - 50 % chance of getting   [REDACTED] 
 
 ## Tokenomics
